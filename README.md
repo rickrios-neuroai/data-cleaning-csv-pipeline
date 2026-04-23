@@ -10,6 +10,23 @@ This project demonstrates how to clean and preprocess raw CSV data using Python 
   - Default values for categorical data
 - Data validation using `.info()` and `.describe()`
 
+## 🔄 Before vs After Cleaning
+
+| Step | Result |
+|------|--------|
+| Original data | Missing values and duplicates |
+| Cleaned data | No missing values, duplicates removed |
+
+
+
+
+
+
+
+
+
+
+
 ## 📂 Files
 - `data.csv` → Raw dataset
 - `cleaned_data.csv` → Cleaned dataset
